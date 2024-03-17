@@ -5,7 +5,7 @@
 <!ENTITY author    "Undead Studios">
 <!ENTITY version   "2023.02.04b">
 <!ENTITY launch    "Settings/Arduino">
-<!ENTITY pluginURL "https://raw.githubusercontent.com/UndeadSummon/UnraidArduino/master/&name;.plg">
+<!ENTITY pluginURL "https://github.com/UndeadSummon/UnraidArduino/master/&name;.plg">
 <!ENTITY flash     "/boot/config/plugins/&name;">
 #<!ENTITY MD5       "92d8ce80503e2c8023fb2696727616cf">
 ]>
